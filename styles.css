@@ -1,0 +1,92 @@
+/*
+Name: Mahmud Hrnjic
+Course: CS412
+Assignment: Resume progress 2
+Due Date: 18.11.2019
+Purpose: The purpose of this .css is to style my resume web page
+*/
+
+body
+{
+	background-image: url(bcg.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+#first
+{
+	width: 900px;
+    height: 400px;
+
+    border-style: 10px solid black;
+
+}
+#title
+{
+    font-size: 80px;
+    text-align: center;
+    
+    font-family: "Calibri";
+    color: white;
+}
+.subtitle
+{
+    font-size: 25px;
+    text-align: center;
+    
+    font-family: "Calibri";
+    color: white;
+}
+
+
+.column
+{
+  float: left;
+  width: 50%;
+  height: 40%;
+  position: center;
+  color: white;
+  font-size: 20px;
+  font-family: "Calibri";
+ 
+
+  
+ }
+
+ #info
+ {
+  margin: auto;
+  color: white;
+  font-family: "Calibri";
+  font-size: 25px;
+  
+
+ }
+ .heading
+ {
+ 	text-align: center;
+ 	font-family: "Calibri";
+
+ }
+ #ul
+ {
+ 	text-align: center;
+ 	list-style-type: none;
+ }
+ .icons
+ {
+ 	width: 60px;
+ 	height: 60px;
+ }
+ #repository
+ {
+    margin: auto;
+    width: 200px;
+    text-align: center;
+    font-size: 20px;
+    background: white;
+ }
+
+
